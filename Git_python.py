@@ -10,6 +10,13 @@ if(num%2==0):
 else:
     print(num," is an Odd number")
 
+if num > 0:
+   print("Positive number")
+elif num == 0:
+   print("Zero")
+else:
+   print("Negative number")
+
 
 # In[ ]:
 
