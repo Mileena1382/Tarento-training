@@ -1,0 +1,24 @@
+                                                         Shortcuts in IDE(PyCharm)
+    
+    1.Run/Debug: Shift + F10 (Windows/Linux), Control + Shift + R (Mac)
+        This shortcut allows you to quickly run or debug your Python program without navigating through the menu or toolbar. 
+        It helps in executing your code and displaying the output or starting the debugging process.
+
+    2.Go to Definition: Ctrl + Left Click (Windows/Linux), Command + Left Click (Mac)
+        By placing the cursor on a symbol (e.g., a function or a class) and using this shortcut, you can quickly navigate 
+        to its definition. It helps in understanding implementation details or efficiently exploring the codebase.
+
+    3.Format Code: Ctrl + Alt + L (Windows/Linux), Option + Command + L (Mac)
+        This shortcut helps maintain consistent code formatting. By selecting a block of code or placing the cursor in a 
+        file and pressing the shortcut, PyCharm automatically reformats the code based on the configured code style 
+        settings.
+
+    4.Rename: Shift + F6
+        Using this shortcut, you can quickly rename a symbol (e.g., a variable, function, or class) throughout your
+        codebase. By placing the cursor on the symbol and pressing the shortcut, PyCharm opens a dialog to enter the 
+        new name, automatically updating all references to the symbol.
+
+    5.Extract Variable/Method: Ctrl + Alt + V/M (Windows/Linux), Command + Option + V/M (Mac)
+        These shortcuts are useful for refactoring and improving code readability. By selecting a block of code and
+        pressing the respective shortcut (V for variable, M for method), PyCharm extracts the selected code into a 
+        new variable or method, respectively.
